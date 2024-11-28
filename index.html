@@ -36,6 +36,7 @@
             position: absolute;
             top: -5px;
             right: 5px;
+            opacity: 0.5;
         }
         #alphabet {
             text-align: center;
@@ -118,10 +119,16 @@
         fetch(filePath)
             .then(response => response.text())
             .then(data => {
+                const songSet = new Set();
                 songs = data.split('\n').map(line => {
                     const [artist, title] = line.includes(' - ') ? line.split(' - ') : [null, line];
-                    return { artist: artist ? artist.trim() : '', title: title.trim() };
-                });
+                    const song = { artist: artist ? artist.trim() : '', title: title.trim() };
+                    const songKey = `${song.artist}-${song.title}`;
+                    if (!songSet.has(songKey)) {
+                        songSet.add(songKey);
+                        return song;
+                    }
+                }).filter(song => song);
             })
             .catch(error => console.error('Error fetching the song list:', error));
 
@@ -144,15 +151,22 @@
             const songListDiv = document.getElementById('song-list');
             songListDiv.innerHTML = '';
             const filteredSongs = songs.filter(song => song[option].toUpperCase().startsWith(letter));
+            filteredSongs.sort((a, b) => customSort(a[option], b[option]));
             if (filteredSongs.length > 0) {
                 filteredSongs.forEach(song => {
                     const songDiv = document.createElement('div');
-                    songDiv.innerHTML = `${song.title} ${song.artist ? `<span class="by-text">${isLatvian ? ' - ' : 'by'}</span> ${song.artist}` : ''}`;
+                    songDiv.innerHTML = `${song.title} ${song.artist ? `<span class="by-text">${isLatvian ? ' -- ' : ' -- '}</span> ${song.artist}` : ''}`;
                     songListDiv.appendChild(songDiv);
                 });
             } else {
                 songListDiv.innerText = isLatvian ? 'Nav atrasta neviena dziesma' : 'No songs found';
             }
+        }
+
+        function customSort(a, b) {
+            const cleanA = a.replace(/(?!^)[^\w\s]|_/g, '').toUpperCase();
+            const cleanB = b.replace(/(?!^)[^\w\s]|_/g, '').toUpperCase();
+            return cleanA.localeCompare(cleanB);
         }
 
         function searchSongs() {
@@ -163,6 +177,7 @@
                 song.title.toLowerCase().includes(searchInput) || 
                 song.artist.toLowerCase().includes(searchInput)
             );
+            filteredSongs.sort((a, b) => customSort(a.title, b.title));
             if (filteredSongs.length > 0) {
                 filteredSongs.forEach(song => {
                     const songDiv = document.createElement('div');
