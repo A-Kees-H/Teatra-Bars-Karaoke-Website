@@ -147,13 +147,14 @@
             if (filteredSongs.length > 0) {
                 filteredSongs.forEach(song => {
                     const songDiv = document.createElement('div');
-                    songDiv.innerHTML = `${song.title} <span class="by-text">${isLatvian ? 'izpilda' : 'by'}</span> ${song.artist}`;
+                    songDiv.innerHTML = `${song.title} ${song.artist ? `<span class="by-text">${isLatvian ? ' - ' : 'by'}</span> ${song.artist}` : ''}`;
                     songListDiv.appendChild(songDiv);
                 });
             } else {
                 songListDiv.innerText = isLatvian ? 'Nav atrasta neviena dziesma' : 'No songs found';
             }
         }
+
         function searchSongs() {
             const searchInput = document.getElementById('search-input').value.toLowerCase();
             const songListDiv = document.getElementById('song-list');
@@ -165,7 +166,7 @@
             if (filteredSongs.length > 0) {
                 filteredSongs.forEach(song => {
                     const songDiv = document.createElement('div');
-                    songDiv.innerHTML = `${song.title} <span class="by-text">${isLatvian ? 'izpilda' : 'by'}</span> ${song.artist}`;
+                    songDiv.innerHTML = `${song.title} ${song.artist ? `<span class="by-text">${isLatvian ? 'izpilda' : 'by'}</span> ${song.artist}` : ''}`;
                     songListDiv.appendChild(songDiv);
                 });
             } else {
