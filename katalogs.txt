@@ -482,7 +482,7 @@ Anastacia - Sick And Tired
 Anastacia - Welcome To My Truth
 Anastasia - Why'd You Lie To Me
 Andre 3000 & Lloyd & Lil' Wayne - Dedication To My
-Andrea Boccelli & Celine Dion  - Prayer
+Andrea Boccelli & Celine Dion - Prayer
 Andrea True Connection - More, More, More
 Andreas Johnson - Games We Play
 Andreas Johnson - Glorious
@@ -978,7 +978,7 @@ Bewitched - C'est La Vie
 Bewitched - Jump Down
 Bewitched - Rollercoaster
 Bewitched - To You I Belong
-Beyonce  & Jay Z - Upgrade You 
+Beyonce & Jay Z - Upgrade You 
 Beyonce - Irreplaceable
 Beyonce & Jay Z - Crazy In Love
 Beyonce & Jay-Z - Bonnie & Clyde 
@@ -1241,7 +1241,7 @@ Bj Thomas - Hooked On
 Bjork - It's Oh So Uiet
 Bjorn Afzelius - En Kungens Man 
 Bjorn Afzelius - Tusen Bitar 
-Bjorn Peter  & John Ft Victoria Bergman - Young Fo
+Bjorn Peter & John Ft Victoria Bergman - Young Fo
 Bjorn Skifs - Michelangelo 
 Bjorn Skifs - Varre Framat Natten 
 Black - Wonderful Life
@@ -1868,7 +1868,7 @@ Broderna Djup - Koppebavisan
 Brolle Jr - Heartbreak City 
 Bronski Beat - Smalltown Boy 
 Brook Benton - A Rainy Night In Georgia
-Brooke Hogan  & Paul Wall - About Us 
+Brooke Hogan & Paul Wall - About Us 
 Brooke Hogan & Stacks - Falling 
 Brooklyn Bridge - Worst That Could Happen 
 Brooks & Dunn & Reba - If You See Him If You See H
@@ -1969,7 +1969,7 @@ Bryan White - Sittin' On Go
 Bryan White - Someone Else's Star 
 Bryan White - Tree Of Hearts 
 Bryan White - You're Still Beautiful To Me 
-Bubba Sparxxx  & Ying Yang Twins - Ms. New Booty 
+Bubba Sparxxx & Ying Yang Twins - Ms. New Booty 
 Bubba Sparxxx - Heat It Up 
 Bubba Sparxxx - Ms. New Booty 
 Bubba Sparxxx - Ugly 
@@ -2007,7 +2007,7 @@ Bush - Greedy Fly
 Bush - Letting The Cables Sleep 
 Bush - Machinehead 
 Bush - Warm Machine 
-Busta Rhymes  & will.i.am & Kelis - I Love My Chic
+Busta Rhymes & will.i.am & Kelis - I Love My Chic
 Busta Rhymes & P. Diddy & Pharrell - Pass The Cour
 Busta Rhymes & Spliff Star - Make It Clap 
 Busta Rhymes - Break Ya Neck 
@@ -2177,7 +2177,7 @@ Carpenters - Ticket To Ride
 Carpenters - Top Of The World
 Carpenters - We've Only Just Begun
 Carpenters - Yesterday Once More 
-Carrie  Underwood - I Told You So 
+Carrie Underwood - I Told You So 
 Carrie Underwood - Before He Cheats 
 Carrie Underwood - Blown Away
 Carrie Underwood - Cowboy Casanova 
@@ -2285,7 +2285,7 @@ Celine Dion - Like A Natural Woman
 Celine Dion - Love Can Move Mountains 
 Celine Dion - Love Doesn't Ask Why 
 Celine Dion - Misled 
-Celine Dion - My Heart Will Go On  Dance Version
+Celine Dion - My Heart Will Go On Dance Version
 Celine Dion - My Heart Will Go On
 Celine Dion - New Day Has Come 
 Celine Dion - Nothing Broken But My Heart 
@@ -2326,7 +2326,7 @@ Chalee Tennison - Just Because She Lives There
 Chalee Tennison - Makin' Up With You 
 Chalee Tennison - Someone Else's Turn To Cry 
 Chambers Brothers - Time Has Coime Today
-Chamillionaire  & Krayzie Bone - Ridin' 
+Chamillionaire & Krayzie Bone - Ridin' 
 Champaign - How About Us
 Chandler, Gene - Duke Of Earl
 Changing Faces - G.H.E.T.T.O.U.T. 
@@ -2534,13 +2534,13 @@ Christmas Robson & Jerome - I Believe
 Chubby Checker - Let's Twist Again
 Chubby Checker - Limbo Rock
 Chubby Checker - Pony Time
-Chuck Berry  - Johnny B. Goode
-Chuck Berry  - Merry Christmas Baby
-Chuck Berry  - Nadine (Is It You)
-Chuck Berry  - No Particular Place To Go
-Chuck Berry  - Reelin' & Rockin'
-Chuck Berry  - Roll Over Beethoven
-Chuck Berry  - Sweet Little Sixteen
+Chuck Berry - Johnny B. Goode
+Chuck Berry - Merry Christmas Baby
+Chuck Berry - Nadine (Is It You)
+Chuck Berry - No Particular Place To Go
+Chuck Berry - Reelin' & Rockin'
+Chuck Berry - Roll Over Beethoven
+Chuck Berry - Sweet Little Sixteen
 Chuck Berry - Memphis
 Chuck Berry - My Ding A Ling
 Chuck Berry - Rock And Roll Music
@@ -3196,7 +3196,7 @@ Dido - Life For Rent
 Dido - Sand In My Shoes
 Dido - Thank You
 Dido - White flag
-Dierks  Bentley - Am I The Only One
+Dierks Bentley - Am I The Only One
 Dierks Bentley & Sarah Buxton - Sweet & Wild
 Dierks Bentley - 5-1-5-0
 Dierks Bentley - Draw Me A Map
@@ -3342,7 +3342,7 @@ Don Mclean - And I Love You So
 Don Mclean - Crying
 Don Mclean - Vincent
 Don Partridge - Rosie
-Don Williams  - That's The Thing About Love
+Don Williams - That's The Thing About Love
 Don Williams - Amanda
 Don Williams - Come Early Morning
 Don Williams - Falling Again
@@ -3636,7 +3636,7 @@ Eddie Fisher - Outside Of Heaven
 Eddie Floyd - Bring It On Home To Me
 Eddie Floyd - Knock On Wood
 Eddie Grant - Electric Avenue
-Eddie Money  - Fall In Love Again
+Eddie Money - Fall In Love Again
 Eddie Money - Baby Hold On
 Eddie Money - I Think I'm In Love
 Eddie Money - I Wanna Go Back
@@ -3700,7 +3700,7 @@ Elo - Don't Bring Me Down
 Elo - Evil Woman
 Elo - Strange Magic
 Elton John & The Backstreet Boys - Friends Never S
-Elton John -  Are You Ready For Love
+Elton John - Are You Ready For Love
 Elton John - All That I'm Allowed I'm Thankful
 Elton John - Are You ready for love
 Elton John - believe
@@ -3757,18 +3757,18 @@ Elvis Costello - Good Year For The Roses
 Elvis Costello - Radio Radio
 Elvis Costello - Watching The Detectives
 Elvis Presley - Bridge Over Troubled Water
-Elvis Presley -  A Fool Such As I
-Elvis Presley -  Blueberry Hill
-Elvis Presley -  I Just Can't Help Believin'
-Elvis Presley -  I Want You, I Need You, I Love Yo
-Elvis Presley -  Kissin' Cousins
-Elvis Presley -  Lonesome Cowboy
-Elvis Presley -  Poor Boy
-Elvis Presley -  Raised On Rock
-Elvis Presley -  Wear My Ring Around Your Neck
-Elvis Presley -  When My Blue Moon Turns To Gold A
-Elvis Presley -  Where Do You Come From
-Elvis Presley -  Wooden Heart
+Elvis Presley - A Fool Such As I
+Elvis Presley - Blueberry Hill
+Elvis Presley - I Just Can't Help Believin'
+Elvis Presley - I Want You, I Need You, I Love Yo
+Elvis Presley - Kissin' Cousins
+Elvis Presley - Lonesome Cowboy
+Elvis Presley - Poor Boy
+Elvis Presley - Raised On Rock
+Elvis Presley - Wear My Ring Around Your Neck
+Elvis Presley - When My Blue Moon Turns To Gold A
+Elvis Presley - Where Do You Come From
+Elvis Presley - Wooden Heart
 Elvis Presley - A Boy Like Me, A Girl Like You
 Elvis Presley - All Shook Up
 Elvis Presley - Almost Always True
@@ -3999,7 +3999,7 @@ England United - On Top Of The World
 Englebert Humperdinck - After The Lovin'
 Englebert Humperdinck - Release Me
 Englebert Humperdink - The Last Waltz
-Enrique  Iglesias - I Like It
+Enrique Iglesias - I Like It
 Enrique Igesias - Bailamos
 Enrique Iglesias & Ludacris & DJ Frank E - Tonight
 Enrique Iglesias & Usher & Lil Wayne - Dirty Dance
@@ -4227,7 +4227,7 @@ Fats Domino - Walking To New Orleans
 Fats Domino - Whole Lotta Loving
 Fats Waller - Ain't Misbehavin'
 Fats Waller - I Can Give You Anything But Love
-Feat Shola  - Glamma Kid
+Feat Shola - Glamma Kid
 Feeder - Buck Rogers
 Feeder - Seven Days In The Sun
 Feeling - I Thought It Was Over
@@ -4246,7 +4246,7 @@ Filter - Hey Man Nice Shot
 Filter - Take A Picture
 Fine Young Cannibals - Good Thing
 Fine Young Cannibals - She Drives Me Crazy
-Finger Eleven  - One Thing
+Finger Eleven - One Thing
 Fiona Apple - Fast As You Can
 Fiona Apple - Shadowboxer
 Fiona Apple - Sleep To Dream
@@ -4255,7 +4255,7 @@ Fire On The Mountain - The Marshall Tucker Band
 Firefall - Just Remember I Love You
 Firefall - Strange Way
 Firefall - You Are The Woman
-Firehouse -  Love Of A Lifetime
+Firehouse - Love Of A Lifetime
 Firehouse - When I Look Into Your Eyes
 Firm - Star Trekkin'
 First M - All Seeing I
@@ -4696,7 +4696,7 @@ George Michael - Praying For Time
 George Michael - Roxanne
 George Michael - Spinning The Wheel
 George Michael - Star People
-George Michael - The  Strangest Thing
+George Michael - The Strangest Thing
 George Michael - Too Funky
 George Michael - Waiting For That Day
 George Michael - Wake Me Up Before You Go Go
@@ -4751,7 +4751,7 @@ Gin Blossoms - As Long As It Matters
 Gin Blossoms - Follow You Down
 Gin Blossoms - Hey Jealousy
 Gin Blossoms - Until I Fall Away
-Gin Blossoms,  - Til I Hear It From You
+Gin Blossoms, - Til I Hear It From You
 Gina G - Ooh Aah Just A Little Bit
 Gino Vannelli - I Just Wanna Stop
 Ginuwine & Baby - Hell Yeah
@@ -4843,7 +4843,7 @@ Gnarles Barkle - Who cares
 Go West - King Of Wishful Thinking
 Go West - We Close Our Eyes
 Go West - What You Won't Do For Love
-Godsmack -  Straight Out Of Line
+Godsmack - Straight Out Of Line
 Godsmack - Awake
 Godsmack - Greed
 Godsmack - I Stand Alone
@@ -4949,7 +4949,7 @@ Greene & Seely - Wish I Didn't Have To Miss You
 Greg Bates - Did It For The Girl
 Greg Kihn Band - Breakup Song
 Greg Kihn Band - Jeopardy
-Gretchen  Wilson - I'd Love To Be Your Last
+Gretchen Wilson - I'd Love To Be Your Last
 Gretchen Wilson - Don't Do Me No Good
 Gretchen Wilson - I Got Your Country Right Here
 Groove Armada - I See You Baby
@@ -4984,7 +4984,7 @@ Guy Mitchell - She Wears Red Feathers
 Guy Sebastian & Lupe Fiasco - Battle Scars
 Guy Sebastian - Don't Worry Be Happy
 Guy Sebastian - Gold
-Gwen  Stefani & Moby - Southside
+Gwen Stefani & Moby - Southside
 Gwen Stefani - Met Him In A Motel Room
 Gwen Stefani - What You Waiting For
 Gwen Stefani Feat Eve - Rich Girl
@@ -5489,7 +5489,7 @@ JLS - Take A Chance On Me
 Jo Boxers - Boxer Beat
 Jo Jo - Leave (Get Out)
 Jo Stafford - You Belong To Me
-Joan Baez  - The Night They Drove Old Dixie Down
+Joan Baez - The Night They Drove Old Dixie Down
 Joan Jett & The Blackhearts - I Hate Myself For Lo
 Joan Jett & The Blackhearts - I Love Rock & Roll
 Joan Osborne - One Of Us
@@ -5636,7 +5636,7 @@ Jordan Anderson - Toxic
 Jordan Knight - Give I
 Jordin Sparks - Battlefield
 Jordin Sparks - I Am Woman
-Josh  Kelley - Georgia Clay
+Josh Kelley - Georgia Clay
 Josh Abbot Band - I'll Sing About Mine
 Josh Gracin - Unbelievable (Ann Marie)
 Josh Groban - Hidden Away
@@ -5745,7 +5745,7 @@ Kate Winslett - What If
 Kathy Kirby - Let Me Go Lover
 Kathy Kirby - Secret Love
 Kathy Troccoli - Everything Changes
-Katie  Armiger - Best Song Ever
+Katie Armiger - Best Song Ever
 Katie Armiger - Leaving Home
 Katie Melua - Call Off The Search
 Katie Melua - Crawling Up A Hill
@@ -5799,7 +5799,7 @@ Kellis - Caught Out There (I Hate You)
 Kellis - Trick Me
 Kelly & Ozzy Osbourne - Changes
 Kelly Clarckson - Behind These Hazel Eyes
-Kelly Clarkson & Jason Aldean  - Don't You Wanna S
+Kelly Clarkson & Jason Aldean - Don't You Wanna S
 Kelly Clarkson & Vince Gill - Don't Rush
 Kelly Clarkson - Already Gone
 Kelly Clarkson - Because Of You
@@ -5828,7 +5828,7 @@ Ken Boothe - Everythin
 Ken Dodd - Promises
 Ken Dodd - River
 Ken Dodd - Tears
-Kenny  Chesney - Live A Little
+Kenny Chesney - Live A Little
 Kenny Chesney & Grace Potter - You & Tequila
 Kenny Chesney & Mac McAnally - Down The Road
 Kenny Chesney & Tim McGraw - Feel Like A Rock Star
@@ -6271,7 +6271,7 @@ Les Miserables - In My Life
 Les Miserables - On My Own
 Les Miserables - Stars 
 Les Miserables - Who Am I 
-Leslie  Gore - You Don't Own Me 
+Leslie Gore - You Don't Own Me 
 Leslie Gore - California Nights 
 Leslie Gore - It's My Party
 Leslie Gore - Judy's Turn To Cry
@@ -6558,7 +6558,7 @@ Liza Minelli - New York, New York
 Liza Minelli - Ring Them Bells
 Liza Minelli - The Man I Love
 Lizzie Sider - I Love You That Much
-LL Cool J  & Lyfe Jennings - Freeze 
+LL Cool J & Lyfe Jennings - Freeze 
 Ll Cool J & Amerie - Paradise 
 LL Cool J - Going Back To Cali 
 Ll Cool J - Headsprung 
@@ -6571,7 +6571,7 @@ Lloyd & Awesome Jones - Cupid
 Lloyd & Lil Wayne - Girls Around The World 
 Lloyd & Ludacris - How We Do It 
 Lloyd - Lay It Down 
-Lloyd Banks  & 50 Cent - Hands Up 
+Lloyd Banks & 50 Cent - Hands Up 
 Lloyd Banks - Karma 
 Lloyd Banks - On Fire (Radio Version) 
 Lloyd Banks and Kanye West and Friends - Start It
@@ -6764,7 +6764,7 @@ Lucie Silvas - Game Is Won
 Lucie Silvas - What You're Made Of
 Lucinda Williams - Right In Time 
 Lucy Woodward - Dumb Girls 
-Ludacris  & Pharrell - Money Maker 
+Ludacris & Pharrell - Money Maker 
 Ludacris & Nate Dogg - Area Codes 
 Ludacris & Pharrell - Southern Hospitality 
 Ludacris & Shawnna - Stand Up 
@@ -6812,7 +6812,7 @@ Lutricia Mcneal - Greatest Love You'll Never Know
 Lutricia Mcneal - Someone Loves You Honey
 Lutricia Mcneal - Stranded
 Lutricia Mcneil - My Side Of Town
-Lyfe Jennings  & LaLa Brown - S.E.X. 
+Lyfe Jennings & LaLa Brown - S.E.X. 
 Lynn Anderson - Rose Garden
 Lynns - Nights Like These 
 Lynns - Woman To Woman 
@@ -6945,7 +6945,7 @@ Marcus Collins - Seven Nation Army
 Mari Wilson - Cry Me A River
 Maria Mckee - Show Me Heaven
 Maria Rubia - Every Time You Need Me
-Mariah Carey &  Boys Ii Men - One Sweet Day
+Mariah Carey & Boys Ii Men - One Sweet Day
 Mariah Carey & Feat Jayz - Heartbreaker
 Mariah Carey & Luther Vandross - Endless Love
 Mariah Carey & Whitney Houston - When you believe
@@ -7153,7 +7153,7 @@ Metallica - Sad But True
 Metallica - Unforgiven
 Metallica - Wherever I May Roam
 Mica Paris - My One Temptation
-Michael  Franti & Spearhead - I'll Be Waiting
+Michael Franti & Spearhead - I'll Be Waiting
 Michael Andrews And Gary Jules - Mad World
 Michael Bolton - A Love So Beautiful 
 Michael Bolton - Back On My Feet Again 
@@ -7294,7 +7294,7 @@ Mila Mason - Dark Horse
 Mila Mason - Strong One 
 Mila Mason - That's The Kinda Love 
 Mila Mason - This Heart 
-Miley  Cyrus - The Climb 
+Miley Cyrus - The Climb 
 Miley Cyrus - Fly On The Wall 
 Miley Cyrus - I Cant Be Tamed 
 Miley Cyrus - See You Again 
@@ -7305,7 +7305,7 @@ Milli Vanilli - Girl You Know It's True
 Mills Brothers - Till Then 
 Mindbenders - Game Of Love 
 Mindbenders - Groovy Kinda Love 
-Mindy McCready - A Girl's Gotta Do  
+Mindy McCready - A Girl's Gotta Do 
 Mindy McCready - All I Want Is Everything 
 Mindy McCready - Girl's Gotta Do 
 Mindy McCready - Guys Do It All The Time 
@@ -7386,7 +7386,7 @@ Moloko - Sing It Back
 Moloko - Time Is Now
 Moments And What Nauts - Girls
 Mondo Rock - Summer Of 81
-Monica  & Dem Franchize Boyz - Everytime Tha Beat
+Monica & Dem Franchize Boyz - Everytime Tha Beat
 Monica & 112 - Right Here Waiting 
 Monica & Ludacris - Still Standing 
 Monica - All Eyez On Me 
@@ -7770,7 +7770,7 @@ O Jays - For The Love Of Money
 O Jays - I Love Music (Part 1)
 O Jays - Love Train
 O Jays - Use To Be My Girl
-O M D  Vs Sash - Enola Gay 98
+O M D Vs Sash - Enola Gay 98
 O M D - Enola Gay
 O M D - Sailing On The Seven Seas
 O M D - Walking On The Milky Way
@@ -7835,7 +7835,7 @@ Ohio Players, The - Fire
 Oklahoma - Oh What A Beautiful Morning
 Oklahoma - People Will Say We're In Love
 Olivia newton & john travolta - you're the one i w
-Olivia Newton John  & John Travolta - You're The O
+Olivia Newton John & John Travolta - You're The O
 Olivia Newton John - Physical
 Olivia Newton John - Xanadu
 Ollie And Jerry - Breakin', There's No Stopping Us
@@ -8138,7 +8138,7 @@ Placebo - You Don't Care About Us
 Plain White T's - 1, 2, 3, 4 (I Love You)
 Plain White T's - Rhythm Of Love
 Plan B - Ill Manors (Clean)
-Planet Earth (Hed)  - Bartender
+Planet Earth (Hed) - Bartender
 Plastic Bertrand - Ca Plane Pour Moi
 Platters - Harbor Lights
 Platters - My Prayer
@@ -8328,7 +8328,7 @@ Randy Crawford - Almaz
 Randy Crawford - Give Me The Night
 Randy Crawford - One Day I'll Fly Away
 Randy Crawford - You Might Need Somebody
-Randy Houser - A  Man Like Me
+Randy Houser - A Man Like Me
 Randy Houser - I'm All About It
 Randy Houser - In God's Time
 Randy Montana - 1,000 Faces
@@ -8360,7 +8360,7 @@ Razorlight - Rip It Up
 Razorlight - Somewhere Else
 Real Mccoy - Come & Get Your Love
 Real Thing - Can't Get By Without You
-Reba  McEntire - When Love Gets A Hold Of You
+Reba McEntire - When Love Gets A Hold Of You
 Reba Mcentire - Forever Love
 Reba McEntire - Turn On The Radio
 Rebecca Ferguson - Glitter And Gold
@@ -8415,8 +8415,8 @@ Richard Haris - MacArtur Park
 Richard Marx - Dont mean nothing
 Richard Marx - Hazard (The River)
 Richard Marx - Right Here Waiting
-Richard X  - You Used To
-Richard X -  Finest Dreams
+Richard X - You Used To
+Richard X - Finest Dreams
 Richard X Vs L - Being Nobody
 Richie Valens - Donna
 Rick Astley - Never Gonna Give You Up
@@ -8556,7 +8556,7 @@ Robin s - luv 4 luv
 Robin S - Show Me Love
 Robin Thicke - Magic
 Robin Thicke - Sweetest Love, The
-Robin Thicke Ft.  Kendrick Lamar - Give It 2 U
+Robin Thicke Ft. Kendrick Lamar - Give It 2 U
 Robson & Jerome - Saturday Night At The Movies
 Robson & Jerome - Up On The Roof
 Rock The Boat - Hues Corporation
@@ -8580,7 +8580,7 @@ Rod Stewart - The Killing Of Georgie
 Rod Stewart - This Old Heart Of Mine
 Rod Stewart - Tonight I'm Yours Don't Hurt Me
 Rod Stewart - What Am I Gonna Do
-Rodney  Atkins - Take A Back Road
+Rodney Atkins - Take A Back Road
 Rodney Atkins - Chasin' Girls
 Rodney Atkins - Invisibly Shaken
 Rodney Atkins - It's America
@@ -8846,7 +8846,7 @@ Sex Pistols - God Save The Queens
 Sex Pistols - My Way
 Shabba Ranks - Mr. Loverman
 Shaft - Mucho Mambo Sway
-Shaggy  - Hey Sexy Lady
+Shaggy - Hey Sexy Lady
 Shaggy - Angel
 Shaggy - Boombastic
 Shaggy - It Wasn't Me
@@ -8970,7 +8970,7 @@ Simon & Garfunkel - Me And Julio Down By The Schoo
 Simon & Garfunkel - Most Peculiar Man, A
 Simon & Garfunkel - Mrs. Robinson
 Simon & Garfunkel - My Little Town
-Simon & Garfunkel - Old Friends  Bookends
+Simon & Garfunkel - Old Friends Bookends
 Simon & Garfunkel - Overs
 Simon & Garfunkel - Patterns
 Simon & Garfunkel - Punkys Dilemma
@@ -9002,7 +9002,7 @@ Simply Red - Ain't That A Lot Of Love
 Simply Red - Air That I Breathe 
 Simply Red - For Your Babies 
 Simply Red - Holding Back The Years 
-Simply Red - If You Don't Know Me By  Now 
+Simply Red - If You Don't Know Me By Now 
 Simply Red - Say You Love Me
 Simply Red - Sunrise
 Simply Red - You Make Me Feel Brand New
@@ -9353,7 +9353,7 @@ Steps - Way You Make Me Feel
 Steps - When I Say Goodbye
 Steps - Words Are Not Enough
 Stereomud - Pain
-Stereophonics -  Maybee Tommorow
+Stereophonics - Maybee Tommorow
 Stereophonics - Bartender & The Thief, The
 Stereophonics - Dakota
 Stereophonics - Handbag And Glad Rags
@@ -9632,11 +9632,11 @@ Sum 41 - Pieces
 Sum 41 - Some Say 
 Sum 41 - Still Waiting
 Sum 41 - What We're All About 
-Summer Girls  - Lfo (Lyte Funkie Ones)
+Summer Girls - Lfo (Lyte Funkie Ones)
 Summer Matthews - Little Miss Perfect
 Summer, Donna - Macarthur Park
 Summer, Donna - On The Radio
-Sunny  Sweeney - Staying's Worse Than Leaving
+Sunny Sweeney - Staying's Worse Than Leaving
 Sunny Sweeney - From A Table Away
 Sunshine Anderson - Heard It All Before 
 Sunshine Anderson - Lie To Kick It 
@@ -9855,7 +9855,7 @@ Texas - Put Your Arms Around Me
 Texas - Say What You W
 Texas - Summer Son
 Texas - When We Are Together
-The  JaneDear Girls - Shotgun Girl
+The JaneDear Girls - Shotgun Girl
 The Allman Brothers Band - Ramblin' Man
 The Band Perry - All Your Life
 The Band Perry - Postcard From Paris
@@ -9915,7 +9915,7 @@ Tina Arena - Whistle Down The Wind
 Tina Charles - Dr Love
 Tina Charles - I Love To Love
 Tina Turner & Bryan Adams - It's Only Love
-Tina Turner & Ike  - Nut Bush City Limits
+Tina Turner & Ike - Nut Bush City Limits
 Tina Turner & Ike - River Deep Mountain High
 Tina Turner - Addicted To Love
 Tina Turner - Better Be Good To Me
@@ -10042,7 +10042,7 @@ Toto - Africa
 Town - All Or Nothing O
 Toy Dolls - Nellie The Elephant
 Toyah - It's A Mystery
-Trace  Adkins - Brown Chicken Brown Cow
+Trace Adkins - Brown Chicken Brown Cow
 Trace Adkins - Just Fishin'
 Trace Adkins - Marry For Money
 Trace Adkins - Muddy Water
@@ -10077,7 +10077,7 @@ Travis - Sing
 Travis - Turn
 Travis - Why Does It Always Rain On Me
 Travis - Writing To Re
-Travis McCoy  Ft Bruno Mars - Billionaire
+Travis McCoy Ft Bruno Mars - Billionaire
 Tremeloes - Even The Bad Times Are Good
 Tremeloes - Here Comes My Baby
 Tremeloes - Silence Is Golden
@@ -10086,7 +10086,7 @@ Tremoloes - Even The Bad Times Are Good
 Tremoloes - Suddenly You Love Me
 Trey Songz - I Need A Girl
 Trey Songz - Simply Amazing
-Trina  & Christina Milian - Single Again 
+Trina & Christina Milian - Single Again 
 Trini Lopez - If I Had A Hammer
 Trio - Da Da Da
 Trisha Yearwood - They Call It Falling For A Reaso
@@ -10280,7 +10280,7 @@ Waylon Jennings - Dukes Of Hazzard Theme
 Waylon Jennings - Eagle [Karaoke]
 Waylon Jennings - I'm A Ramblin' Man 
 Waylon Jennings - Lucille 
-Waylon Jennings - Luckenbach Texas  
+Waylon Jennings - Luckenbach Texas 
 Waylon Jennings - Only Daddy That'll Walk The Line
 Waylon Jennings - Rainy Day Woman 
 Waylon Jennings - Wurlitzer Prize 
@@ -10313,7 +10313,7 @@ Wayne Newton - Shangri La
 Wayne Newton - Toot Toot Tootsie Goodbye
 Wayne Newton - Wives And Lovers
 Wayne Thomas - Tragedy 
-Wayne Wonder  - No Letting Go
+Wayne Wonder - No Letting Go
 Wayne Wonder - Perfect Proposal 
 We The Kings - We'll Be A Dream 
 Weather Girls - It's Raining Men
@@ -10792,7 +10792,7 @@ Young Steff - Slow Jukin
 Youngbloods - Get Together
 Youngbloodz & Lil Jon - Damn! 
 Yung Berg & Junior - Sexy Lady 
-Yung Joc  & Brandy 'Ms. B.' Hambrick - I Know You
+Yung Joc & Brandy 'Ms. B.' Hambrick - I Know You
 Yung Joc - It's Goin' Down 
 Yvette Michelle - I'm Not Feeling You 
 Yvonne Elliman - If I Can't Have You
@@ -10835,284 +10835,6 @@ ZZ Top - Waitin' For The Bus
 ZZ Top - What's Up With That 
 ZZ Top - You Shook Me All Night Long 
 ZZ Ward - Til The Casket Drops 
-50 % Buda - Chilly
-Ai Jel Manu Vieglu Prātu - A.Mielavs
-Ai Vanna - Labvēlīgais tips
-Aiz Kalnina Dūmi Kūp - Tautasdziesma
-Ak Pavasar - I.Dzenis
-Ak Vai Cik Žēl - Galda dziesma
-Alumīnija Cūka - Labvēlīgais tips
-Alutiņi vecais brāli - Galda dziesma
-Anniņa Vanniņa  - Dzegūzīte
-Aprīļa Pilieni - Līvi
-Apturi Mani - A.Mielavs & R.Kalniņa
-Ardievu Meitenes - Prāta vētra
-Augu Nakti Pogo Lakstīgala - Tautasdziesma
-Automobilis - R.Pauls
-Āvu Āvu Baltas Kājas - Tautasdziesma
-Bailes Par Ziņģi - Līvi
-Balāde Par Gulbi - Pērkons
-Baltā Dziesma - G.Kalniņš
-Balta Saule - M.Vilcāne
-Baltas karavellas - R.Pauls
-Bēdu Manu Lielu Bēdu - Tautasdziesma
-Bet Dzīvē Viss Ir Savādāk - Igo
-Skolskije Ulici - Prāta Vētra 7 Bi2
-Brūklenājs - R.Pauls
-Cāļus Skaita Rudenī - N.Rutulis
-Caur Sidraba Birzi Gāju - Tautasdziesma
-Cekulaina Zīle Dzied - Tautasdziesma
-Čiekuri - Reigani
-Čiepina
-Davajā Mariņā - A.Kukule
-Degoša asara - Vēja Runa
-Deviņvīru Spēks - Līvi
-Disnejlenda - Kredo
-Div Dzelteni Kumeliņi - Tautasdziesma
-Div Plaviņas Es Nopļāvu - Tautasdziesma
-Divas sirdis - A.Mielavs
-Draugi Kamdēļ Sērot - Galda dziesma
-Draugs - Tumsa
-Dūdieviņš - Jumprava
-Dzejnieka Karnevāls - R.Pauls
-Dzeltenie Aizskari - Dakota
-Dzert un dziedāt - Galda dziesma
-Dzērvenīt - Ferrum
-Dziesma Ar Ko Tu Sācies - Tautasdziesma
-Dzimtā Valoda - Līvi
-Eglīte - Līvi
-Elēģija - R.Pauls
-Elpo Māster - R.Kaupers
-Es Centos - Chilly
-Es Iemilešos Tevī - 6 Judze
-Es Katru Sestdiens Vakaru - A.Drēģeris
-Es Neesmu Neprātīgs - L.Reiniks
-Es nenācu šai vietā - Tautasdziesma
-Es šodien Jūku Prātā - R.Kaupers
-Es tik lādē - I.Dzenis
-Kliedz - Gain Fast
-Gandrīz Tautasdziesma - Pērkons
-Gaujas Laivinieks - I.Dzenis
-Genoveva - Ž.Siksna
-Grieze - Tautasdziesma
-Havajas Meitene - I.Dzenis
-Himalaji - Labvēlīgais tips
-I Love You - Ainārs Mielavs
-Iedzersim Pa Glāzei - Galda dziesma
-Iešu tev līdz - Ē.Gruzniņš
-Ievai - 6 jūdze
-Īstais Vīrs - Apvadcels
-Ja Es Būtu Vējs - Dons
-Ja Es Varētu - G.Kalniņš
-Ja Tu Draudziņ Nezini - V.Lapčenoks
-Ja Tu Esi Viens - Z-Scars
-Paliec Tepat - J.Stībelis
-Jauna Ēra - Sīpoli
-Jaunlaiku balāde - R.Pauls
-Jauns un traks - A.Drēģeris
-Jautrā Dziesmiņa - I.Kalniņš
-Jūriņ Prasa Smalku Tīklu - Tautasdziesma
-Jūrmala - A Eiropa
-Kā Pa Miglu - I.Dzenis
-Kā Senā Dziesmā - Igo
-Kad Man Vairs Nebūs 16 - O.Rajecka
-Kad Meness Jūrā Krīt - A.Mielavs
-Kad Tevis Nav Klāt - Chilly
-Kaija - Bruģis
-Kamēr Tu biji projām - Velves
-Kapēc Tu Klusē  - Lustīgais Blumīzers
-Karbunkulis - R.Pauls
-Kas Dārzā - Tautasdziesma
-Katram Savu Atlantīdu - Tumsa
-Kirsu Lietus - Caffe
-Klondaikas Himna
-Krit Visbaltakie Sniegi - A.Kukuvass
-Krizantemas - Vecie Latvieši
-Krizantemas (Deju)
-Krodziņš - Linga
-Kugis neibade - Galda dziesma
-Kuko Kuko Dzeguzite - R.Pauls
-Kumelini Kumelini - Tautasdziesma
-Kur Tad Tu Nu Biji - Tautasdziesma
-Kur Tu Skriesi Vanadzini - Tautasdziesma
-Kur Tu Teci Gailiti - Tautasdziesma
-Kurtizanu Ugunskurs - Dakota
-Laaciitis - E.Liepiņš
-Lai Butu Tā - Tumsa
-Lai iedzeram lai svinam - Galda dziesma
-Lai Meica Atsaucas - Galda dziesma
-Lai Tevi Sarga - Bet Bet
-Laiks milet
-Laktigalas Nakti
-Laternu Stunda
-Lauj Lai Matu Cirtas Krit
-Lecam Pa Vecam
-Lidmasinas
-Lidojosais Zilonis
-Liec Pie Lupam Kausu
-Liedaga
-Lietus Darzs - Tumsa
-Lilioma Dziesma
-Livi - Zusu Dziesmina
-Lulu - Galda dziesma
-Lustiga Dzivosana - Tautasdziesma
-Lūgums - M.Zīvere
-Makonis
-Mamin Milo Manmin
-Mammu Es Gribu
-Mana Mazina 
-Mana Mila
-Matei Meita
-Maza Deselite - Klaidonis
-Mazais pasta baloditis
-Meitene
-Meitene Zeltene - Līvi
-Meitenei Kafejnica
-Meitenit - Novadnieki
-Melna Pantera - Galda dziesma
-Migla Asaro Logs
-Mila
-Milas Balade - G.Kalniņš
-Milestiba
-Mirdzot Skepiem
-Mocitis
-Mulke Sirds
-My Star
-Nac Ar Mani Pakluseti
-Nac Dejot
-Nac Lidz - Linita
-Nadud Dirvs Vitolam
-Nauksenu Disko
-Nav Verts
-Nedalama
-Nedod Dievs Vitolam - Tautasdziesma
-Nekas Vairs Nav Taa
-Nekur Nav Tik Labi Ka Majas
-Nenaciet Klat Man  Rudeni - L.Vaikule
-Nepārmet Man - Bet Bet
-Nezviedz Bērājs Kumeliņ - Tautasdziesma
-Notiksies Kam Jānotiek
-O Izabella - Galda dziesma
-O mana mazā - Kantoris 04
-Omnibuss - Labvēlīgais tips
-O-z-o-l-s - Ozols
-Pa Misisipi - Z.Muhtupāvels
-Palaiž garām - Okey
-Par Pēdējo Lapu - N.Bumbiere
-Par Rozēm - Jumprava
-Palaid vējā - F.Ķiģelis
-Par To - R.Pauls
-Par To Gadījumu - Menuets
-Parasts Stāsts 
-Pasaule Pasaulīt - Eolika
-Pazudušais Dēls - Čikāgas piecīši
-Pēc Lietus - Otra puse
-Pēc Mums - Tumsa
-Pie Baltas Lapas - Pērkons
-Pie Jūras Dzīve Mana - R.Trence
-Piedod Man - Līvi
-Piezvani Man - A.Kukuvass
-Pilsētā Kurā Piedzimst Vējš - Liepājas brāļi
-Projām Jāiet - Galda dziesma
-Prom No Pilsētas - Jumprava
-Prom Uz Siltajām Salām - Prāta Vētra
-Pūga Pūga Jenga Jenga
-Puiši puiši kas tie puiši
-Puķu Nakts
-Pumpiņrasā
-Ripoja akmens - A.Ērglis
-Rīga Dimd - Tautasdziesma
-Rozā lietus - Opus pro
-Rozes Tumsi Sarkanās
-Rūžeņa
-Šalc Zaļais Mežs
-Saldu Dusu
-Sapņu Pārdevējs
-Savāda vasara
-Saule - Līvi
-Šeit Šeit - Linga
-Seks Lai Dzīvo
-Seksuali Ciekuri
-Sen tas bij
-Sens Tik Sens
-Seši Mazi Bundzenieki - Tautasdziesma
-Signe Melo
-Sikspārņa Fledermauša Dziesma
-Sirdij Jau Nevajag Skaitu
-Sirds Sadeg Neparasti
-Sirdsapziņas tīrība
-Skaista Bij Jaunība
-Skaisti Dziedi Lakstīgala - Tautasdziesma
-Slidotava
-Smilšu Rausis
-Somu Pirts
-Spogulīt Spogulīt - Prāta Vētra
-Strēlniece - RePublic
-Svētku Diena - O.Rajecka
-Tā - A.Mielavs
-Tā Bija - G.Kalniņš
-Tā Es Tevi Mīlēšu
-Tad Kad Mes Iemīlēsim
-Tālā
-Tāpēc Jau Ka Nevar Zinat Kāpēc
-Tev Šodien Vienalga - Dons Un Lily
-Tev Sodien Vienalga - L Reiniks
-Tik Del Jums Dailas Damas - Galda dziesma
-Tik Un Tā - U.Stabulnieks
-Tik Un Tā Jau Nesapratīs
-Tikai Tā - Liepājas brāļi
-Trīs Lietas
-Trīs Ruņči
-Tu Izvēlējies Palikt - Prāta Vētra
-Tu Jau Zini - Talantu Fabrika
-Tu Tuvojies Sev - Z Scars
-Tu Un Es - Opus Pro
-Tumsa Nakte Zala Zale - Tautasdziesma
-Tumsa Tumsa Ta Eglite - Tautasdziesma
-Tur Es Dzeru - Galda dziesma
-Tuvu Tuvu - Lādezers
-Ugunskurs
-Upe Nesa Ozolinu
-Upei - Kaimini
-Uz Ielas Stūra
-Uz Kalna Stāv Vientulis Ozols - Tautasdziesma
-Uzsniga sniedzins balts
-Uzvaretājs iegūst visu
-Vaidava
-Varavīksne
-Varbūt - R.Pauls
-Varbūt Rīt - Dāmu pops
-Vārdi Neizteic Neko 
-Vecais Zābaciņš - Bet Bet
-Vecpiebalgas ūdensrozes
-Vedej pasteidzies
-Veja Suns - G.Kalniņš
-Vella Kalpu Dziesma
-Vēlreiz - Jumprava
-Velreiz - Ella
-Vēstule No Sorento
-Vēstules no taluma
-Vijolnieks
-Vilciens Rīga - Valka
-Vindsērfings - Ingus Petersons
-Viņi Dejoja Vienu
-Vīns dzirkstošais - Lauku muzikanti
-Visi Ciema Suņi Rēja
-Viss Nāk Un Aiziet Tālumā
-Zaļā Pilsēta - G.Meijers
-Zemenes - Apvedceļš
-Ziedi Ziedi Rudzu Vārpa - Tautasdziesma
-Ziema
-Ziemeļmeita
-Ziemeļvējš
-Zilais Putniņš
-Zilie Lini
-Zīlīte - Līvi
-Zipsnī zvaigznes aiz Daugavas - M.Zīvere
-Zinģe Par Bailēm
-Zinu Visi Mani Nievā
-Varbuut - Z-Scars
-Zvaigzņu Kabarē - Tumsa
 Chilly - 50% Buda
 A.Mielavs - Ai Jel Manu Vieglu Prātu
 Labvēlīgais tips - Ai Vanna
@@ -11266,7 +10988,7 @@ Nedalama
 Tautasdziesma - Nedod Dievs Vitolam
 Nekas Vairs Nav Taa
 Nekur Nav Tik Labi Ka Majas
-L.Vaikule - Nenaciet Klat Man  Rudeni
+L.Vaikule - Nenaciet Klat Man Rudeni
 Bet Bet - Nepārmet Man
 Tautasdziesma - Nezviedz Bērājs Kumeliņ
 Notiksies Kam Jānotiek
